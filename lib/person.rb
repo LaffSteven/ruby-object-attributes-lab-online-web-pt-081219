@@ -1,19 +1,19 @@
 class Person
   
   def name=(a_name)
-    @my_name = a_name
+    @name = a_name
   end
   
   def name
-    @my_name
+    @name
   end
   
   def job=(a_job)
-    @my_job = a_job
+    @job = a_job
   end
   
   def job
-    @my_job
+    @job
   end
   
 end
